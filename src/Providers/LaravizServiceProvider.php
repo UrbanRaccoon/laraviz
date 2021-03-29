@@ -16,7 +16,7 @@
 namespace Vizrex\Laraviz\Providers;
 
 use \Vizrex\Laraviz\Providers\BaseServiceProvider;
-
+/*
 class LaravizServiceProvider extends BaseServiceProvider
 {
     public function register(){}
@@ -41,3 +41,4 @@ class LaravizServiceProvider extends BaseServiceProvider
         $this->publishes(["$dir/config/laraviz.php" => config_path("laraviz.php")], self::getNamespace());
     }
 }
+*/
