@@ -1,6 +1,6 @@
 <?php
 
-namespace Vizrex\Laraviz\Database\Migrations;
+namespace \Vizrex\Laraviz\Database\Migrations;
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
