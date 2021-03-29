@@ -13,7 +13,7 @@
     },
     "require-dev": {},
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "Vizrex\\Laraviz\\": ["src/", "src/Providers"]
         },
         "files": [
