@@ -15,7 +15,7 @@
 
 namespace Vizrex\Laraviz;
 
-use App\Vizrex\Laraviz\BaseServiceProvider;
+use \Vizrex\Laraviz\BaseServiceProvider;
 
 class LaravizServiceProvider extends BaseServiceProvider
 {
