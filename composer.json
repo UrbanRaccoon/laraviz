@@ -27,8 +27,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Vizrex\\Laraviz\\Providers\\LaravizServiceProvider",
-                "Vizrex\\Laraviz\\Providers\\BaseServiceProvider"
+                "Vizrex\\Laraviz\\Providers\\LaravizServiceProvider"
             ]
         }
     },
