@@ -13,7 +13,7 @@
  * @author Zeshan
  */
 
-namespace Vizrex\Laraviz;
+namespace Vizrex\Laraviz\Providers;
 
 use \Vizrex\Laraviz\Providers\BaseServiceProvider;
 
