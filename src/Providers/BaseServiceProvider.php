@@ -15,7 +15,7 @@
 
 namespace \Vizrex\Laraviz;
 
-use Illuminate\Support\ServiceProvider;
+use \Illuminate\Support\ServiceProvider;
 
 class BaseServiceProvider extends ServiceProvider
 {
