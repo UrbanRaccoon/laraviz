@@ -13,7 +13,7 @@
  * @author Zeshan
  */
 
-namespace Vizrex\Laraviz;
+namespace app\Vizrex\Laraviz;
 
 use \Illuminate\Support\ServiceProvider;
 
