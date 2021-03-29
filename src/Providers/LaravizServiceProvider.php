@@ -13,10 +13,10 @@
  * @author Zeshan
  */
 
-namespace Vizrex\Laraviz\Providers;
+namespace Vizrex\Laraviz;
 
-use \Vizrex\Laraviz\Providers\BaseServiceProvider;
-/*
+use \Vizrex\Laraviz\BaseServiceProvider;
+
 class LaravizServiceProvider extends BaseServiceProvider
 {
     public function register(){}
@@ -41,4 +41,3 @@ class LaravizServiceProvider extends BaseServiceProvider
         $this->publishes(["$dir/config/laraviz.php" => config_path("laraviz.php")], self::getNamespace());
     }
 }
-*/
