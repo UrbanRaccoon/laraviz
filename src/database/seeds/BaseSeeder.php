@@ -1,6 +1,6 @@
 <?php
 
-namespace Vizrex\Laraviz\Database\Seeders;
+namespace \Vizrex\Laraviz\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 
