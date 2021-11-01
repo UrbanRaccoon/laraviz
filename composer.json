@@ -5,11 +5,11 @@
     "license": "proprietary",
     "authors": [{
         "name": "Vizrex",
-        "email": "laravel@vizrex.com"
+        "email": "pieter.marchand@yeastconsulting.be"
     }],
     "require": {
         "php": ">=7.0.0",
-        "bensampo/laravel-enum": "^1.15"
+        "spatie/laravel-enum": "^2.5"
     },
     "require-dev": {},
     "autoload": {
