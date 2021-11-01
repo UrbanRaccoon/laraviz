@@ -1,10 +1,10 @@
 {
-    "name": "vizrex/laraviz",
+    "name": "urbanraccoon/laraviz",
     "description": "A base package with various helpers and abstract classes, acting as a foundation and a standard for other packages.",
     "type": "laravel-package",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [{
-        "name": "Vizrex",
+        "name": "UrbanRaccoon",
         "email": "pieter.marchand@yeastconsulting.be"
     }],
     "require": {
