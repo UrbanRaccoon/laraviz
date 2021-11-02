@@ -14,7 +14,7 @@
     "require-dev": {},
     "autoload": {
         "psr-4": {
-            "Vizrex\\Laraviz\\": "src/Providers"
+            "Vizrex\\Laraviz\\": ["src","src/Providers"]
         },
         "files": [
             "src/Helpers/StringHelpers.php",
